@@ -62,8 +62,11 @@ ou [baixe as rotas](https://drive.google.com/file/d/1j4VweRYrJTEVfoZl_x1nbUI2-Bn
 
 ```cl
   http://localhost:3000/user -> GET | POST -> Criar|Pegar um usuário
+
   http://localhost:3000/movies -> POST -> Criar um filme
+
   http://localhost:3000/movies/rent -> GET | POST -> Ligar um user ao movie alugado.
+
   http://localhost:3000/movies/release -> GET -> Filmes alugados
 ```
 
